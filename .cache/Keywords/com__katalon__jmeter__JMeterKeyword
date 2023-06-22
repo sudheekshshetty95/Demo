@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "0C9CEAF651E726D89C41931F71DFCB9C",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.jmeter.JMeterKeyword",
+      "keywordMethods": [
+        {
+          "name": "runJMeter",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
